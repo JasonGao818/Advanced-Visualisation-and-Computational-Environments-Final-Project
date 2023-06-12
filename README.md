@@ -3,6 +3,7 @@
 Project name - Explorers' Travel(Collaborative project)
 
 List of group members：
+
 **Yujie Gao** 22016089    
 **Yuxuan Ji** 21032965          
 
