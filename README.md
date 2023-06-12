@@ -3,7 +3,7 @@
 Project name - Explorers' Travel(Collaborative project)
 
 List of group members：**Yujie Gao** 22016089  
-                       **Yuxuan Ji** 21032965  
+                       **Yuxuan Ji** 21032965        
 
 Introduction - The board game market is all the rage and many young people like to socialise through board games, so we researched the game content of some of the board games on the market and designed 'Explorers' Travel' using AR as a presentation.
 
