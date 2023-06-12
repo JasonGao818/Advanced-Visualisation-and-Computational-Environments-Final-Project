@@ -13,4 +13,4 @@ For more information about the game and how to play it, please check out the pdf
 
 Dropbox link: https://www.dropbox.com/s/e88q40c5a96tyvn/Final%20Project%20-%20Explorers%27%20Travel.rar?dl=0
 
-Youtube link: 
+Youtube link: https://www.youtube.com/watch?v=PAo8oD2gokY
